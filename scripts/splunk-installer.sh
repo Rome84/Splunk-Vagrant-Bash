@@ -70,7 +70,7 @@ firewall-cmd --add-port=8443/tcp --permanent
 firewall-cmd --add-port=514/udp --permanent
 firewall-cmd --reload
 
-echo "Append the FQDN to the /etc/hosts"
+echo "Appending the (FQDN) Fully Qualify Domain Name to the /etc/hosts"
 echo "192.168.33.20 capacitybay20.example.com capacity20" >>/etc/hosts
 echo "capacitybay20.example.com" >/etc/hostname
 echo "########################################################"
