@@ -76,7 +76,7 @@ echo "capacitybay20.example.com" >/etc/hostname
 
 echo "#----------ENJOY THE WORLD OF AUTOMATION BY CAPACITYBAY-2020--------"
 echo;
-echo "----------SECURITY & ANALITICS------------"
+echo "----------SECURITY & ANALYTICS------------"
 echo;
 echo "---------STAY IN THE WORLD OF SPLUNKERS AND SPLUNKERIZE----------"
 echo;
