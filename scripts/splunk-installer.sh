@@ -84,13 +84,5 @@ echo "---------INVESTIGATING---------------------"
 echo;
 echo "-----------REPORTING-----------------------"
 echo;
-echo "---------ROTIMMING----------------------------"
-echo;
-echo "-------------OBINING-----------------------"
-echo;
-echo "-----------RITANING------------------------"
-echo;
-echo "---------NYAMBING NYAMBING---------------"
-echo;
 echo "---------Rebooting the server-----------"
 sudo init 6
